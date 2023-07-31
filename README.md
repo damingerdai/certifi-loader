@@ -12,6 +12,8 @@ python3 -m venv .venv
 
 activated the virtual environments:
 
+for bash/zsh user
+
 ```bash
 source ./.venv/bin/activate
 ```
@@ -20,4 +22,10 @@ for fish user
 
 ```fish
 source ./.venv/bin/activate.fish
+```
+
+## run
+
+```python
+python app.py --pemfilePath <your certificates path>
 ```
