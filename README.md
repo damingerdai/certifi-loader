@@ -29,3 +29,7 @@ source ./.venv/bin/activate.fish
 ```python
 python app.py --pemfilePath <your certificates path>
 ```
+
+## reference
+
+[Python SSL certificate verify error](https://stackoverflow.com/questions/51390968/python-ssl-certificate-verify-error)
